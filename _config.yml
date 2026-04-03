@@ -1,0 +1,8 @@
+title: ResearcherHub
+description: Research Hub for Collaboration
+url: https://researcherhub.com
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
